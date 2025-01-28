@@ -22,6 +22,9 @@ Additionally, React Hook Form is utilized to manage form validation and submissi
 - **React Hook Form:** Easy and performant form validation and management.
 - **HTML React Parser:** Parse and render HTML content dynamically in React.
 
+## Visit Us
+**Visit [MegaBlogs](https://mega-blog-chi-five.vercel.app/) to learn more about our platform.**
+
 <!--## Glimpse of MegaBlogs
 
 ![Demo](https://jmp.sh/s/Dqppt28hPVEr97gtgsHu)
@@ -31,8 +34,7 @@ Additionally, React Hook Form is utilized to manage form validation and submissi
 ## To Use This App
 
  - **Scan Below**
- ![Alt text](https://ibb.co/SXrZHTJ)
+ ![Alt text](https://ibb.co/SXrZHTJ)--!>
 
-- **Visit [MegaBlogs](mega-blog-chi-five.vercel.app) to learn more about our platform.**--!>
 
 
