@@ -25,16 +25,16 @@ Additionally, React Hook Form is utilized to manage form validation and submissi
 ## Visit Us
 **Visit [MegaBlogs](https://mega-blog-chi-five.vercel.app/) to learn more about our platform.**
 
-<!--## Glimpse of MegaBlogs
+![Visit](https://github.com/user-attachments/assets/ec4f6003-f348-4781-8817-58e1561f6b6a)
 
-![Demo](https://jmp.sh/s/Dqppt28hPVEr97gtgsHu)
 
-![Alt text](https://ibb.co/RBwV1Ys)
+## Screenshots
 
-## To Use This App
+![watermark](https://github.com/user-attachments/assets/661fffaf-744e-4c12-b015-796a9086c9bc)
 
- - **Scan Below**
- ![Alt text](https://ibb.co/SXrZHTJ)--!>
+## Video
+
+![video_2](https://github.com/user-attachments/assets/592c41e3-23c1-4a34-8e42-cec7e18ca23d)
 
 
 
